@@ -72,3 +72,10 @@ layout: default
 
 1.  **护照随身带：** 买卡实名登记，离了它啥也办不成。
 2.  **首选机场或大营业厅：**
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Republic Of The Congo eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/republic-of-the-congo-data-plans)
